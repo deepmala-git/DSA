@@ -1,3 +1,4 @@
+package BitManipulation;
 
 /*
 Given an integer A. Unset B bits from the right of A in binary.

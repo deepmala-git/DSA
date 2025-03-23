@@ -1,3 +1,4 @@
+package BitManipulation;
 
 /*
 Given an integer A, find and return the Ath magic number.

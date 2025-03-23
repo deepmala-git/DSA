@@ -1,3 +1,4 @@
+package BitManipulation;
 
 /*
 Alex and Sam are good friends. Alex is doing a lot of programming these days. He has set a target

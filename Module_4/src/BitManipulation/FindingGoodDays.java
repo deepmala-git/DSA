@@ -1,3 +1,4 @@
+package BitManipulation;
 
 /*
 Alex has a cat named Boomer. He decides to put his cat to the test for eternity.

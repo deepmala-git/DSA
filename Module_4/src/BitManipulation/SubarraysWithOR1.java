@@ -1,3 +1,5 @@
+package BitManipulation;
+
 import java.util.ArrayList;
 
 /*

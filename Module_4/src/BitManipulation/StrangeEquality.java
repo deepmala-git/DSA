@@ -1,3 +1,4 @@
+package BitManipulation;
 
 /*
 Given an integer A.

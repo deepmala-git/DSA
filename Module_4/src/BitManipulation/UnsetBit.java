@@ -1,3 +1,4 @@
+package BitManipulation;
 
 /*
 You are given two integers A and B.
